@@ -1,3 +1,4 @@
+```txt
 Die Lotosblume ängstigt
 Sich vor der Sonne Pracht,
 Und mit gesenktem Haupte
@@ -12,3 +13,4 @@ Sie blüht und glüht und leuchtet,
 Und starret stumm in die Höh;
 Sie duftet und weinet und zittert
 Vor Liebe und Liebesweh.
+```
